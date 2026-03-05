@@ -1,0 +1,2 @@
+OMDB_API_KEY = "your_omdb_key_here"
+TMDB_API_KEY = "your_tmdb_key_here"
